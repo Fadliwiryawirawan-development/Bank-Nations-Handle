@@ -7,7 +7,8 @@
 # Bank-Nations-Handle
 handling banking antisipations , 
 
-
+serch on AI scrolldwon here : 
+"https://chatgpt.com/"
 on:
   push:
     branches: [ "https://www.bca.co.id"."https://bri.co.id"."https://www.bni.co.id"."https://bankmandiri.co.id" ]
