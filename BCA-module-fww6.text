@@ -1,0 +1,111 @@
+🏦 1. Official Bank BCA Link
+
+The official website of Bank Central Asia (BCA) is:
+
+👉 https://www.bca.co.id
+
+✅ Important:
+
+This is the main official domain
+BCA also uses short links like bca.id/xxx, which redirect back to the official site
+
+⚠️ Always check:
+
+bca.co.id
+
+Avoid fake or phishing links.
+
+🔢 2. Important BCA Codes
+💳 Bank transfer code
+BCA code: 014
+
+Used when:
+
+Transfer from other banks (BRI, Mandiri, BNI, etc.)
+🌐 SWIFT Code (International transfer)
+CENAIDJA / CENAIDJAXXX
+
+Used for:
+
+Transfers from abroad
+International banking systems
+🧾 Virtual Account (VA / BIN example)
+
+BCA also uses codes for payments (VA):
+
+Example prefix: 00808400, 08280500 (depends on service)
+🧩 3. “Code Cuartell” → What you likely mean
+
+This term is not official, so here are the real meanings:
+
+A. 💻 API / Payment Integration Code
+
+If you’re building a system (like C++ banking/payment):
+
+BCA provides:
+
+Virtual Account (VA)
+Payment Gateway
+KlikBCA API (for business)
+Example (C++ simulation)
+#include <iostream>
+using namespace std;
+
+int main() {
+    string va = "123456789012345";
+    double amount = 250000;
+
+    cout << "BCA Payment Request\n";
+    cout << "VA: " << va << endl;
+    cout << "Amount: " << amount << endl;
+
+    return 0;
+}
+
+👉 Real integration requires:
+
+Official registration with BCA
+API key & secret
+HTTPS + authentication
+B. 💳 Card Security Code (CVV)
+3 digits on back of card
+⚠️ Never share this
+C. 🔐 OTP / PIN
+One-time password (SMS/app)
+ATM / mobile PIN
+
+⚠️ BCA NEVER asks for these via links.
+
+🚨 4. Security Warning (VERY IMPORTANT)
+
+Common scams:
+
+Fake “BCA links”
+SMS pretending to be BCA
+Phishing websites
+
+Example from real users:
+
+Fake SMS links can look like BCA but steal data
+
+👉 Rules:
+
+Only trust bca.co.id
+Don’t click random links
+Never enter PIN / OTP on unknown sites
+✅ Summary
+Official site: bca.co.id
+Bank code: 014
+SWIFT: CENAIDJA / CENAIDJAXXX
+“Code cuartell” usually means:
+API/payment code
+CVV
+OTP/PIN
+👍 If you want next step
+
+Tell me clearly what you need:
+
+💻 C++ banking system with BCA-style API
+🔗 Virtual Account (VA) full flow
+🔐 Security / bug bounty banking
+💳 Debit card simulation
