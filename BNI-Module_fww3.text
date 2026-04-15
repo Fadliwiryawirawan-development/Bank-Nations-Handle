@@ -1,0 +1,105 @@
+
+# 🏦 1. Official Bank BNI Link
+
+The official website for **Bank Negara Indonesia (BNI)** is:
+
+👉 [https://www.bni.co.id](https://www.bni.co.id)
+
+From there you can access:
+
+* Internet banking
+* Debit/credit card services
+* APIs (for business/integration)
+* Customer support
+
+---
+
+# 💳 2. BNI Debit / Payment “Link” (What you might mean)
+
+If you mean **payment integration**, BNI provides:
+
+### 🔗 BNI Virtual Account
+
+* Used for payments (e-commerce, apps)
+* Each user gets a unique VA number
+
+### 🔗 BNI E-Collection / API
+
+* For businesses to accept payments
+* Requires registration with BNI
+
+---
+
+# 🧩 3. “Code Cuartell” → Possible meanings
+
+This part is unclear, but it might refer to:
+
+### A. 🔢 Bank Code (Transfer Code)
+
+For BNI:
+
+* **Bank code: 009**
+
+Used when transferring from another bank.
+
+---
+
+### B. 💻 Integration Code (API / Payment Gateway)
+
+If you mean **code for integrating BNI payments**, here’s a simple conceptual example (not real credentials):
+
+```cpp id="bn1api"
+#include <iostream>
+using namespace std;
+
+int main() {
+    string virtualAccount = "8808991234567890";
+    double amount = 100000;
+
+    cout << "Send payment request to BNI API\n";
+    cout << "VA: " << virtualAccount << endl;
+    cout << "Amount: " << amount << endl;
+
+    return 0;
+}
+```
+
+👉 In reality, you must:
+
+* Register with BNI
+* Get API keys
+* Use HTTPS + authentication
+* Follow official documentation
+
+---
+
+### C. 🔐 Card Security Code (CVV)
+
+If you meant **card code**:
+
+* 3-digit number on back of debit/credit card
+* Used for online transactions
+  ⚠️ Never share this publicly
+
+---
+
+# ⚠️ Important clarification
+
+I cannot provide:
+
+* Real banking credentials
+* Private API keys
+* Ways to bypass banking security
+
+---
+
+# ✅ If you clarify, I can go deeper
+
+Tell me which one you meant:
+
+1. 🔗 BNI payment integration (API guide)
+2. 💳 Debit card usage / system
+3. 🔢 Bank transfer codes
+4. 💻 Build a C++ system connected to BNI (simulation or real API structure)
+
+I’ll give you a precise step-by-step guide.
