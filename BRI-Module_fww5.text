@@ -1,0 +1,107 @@
+🏦 1. Official Bank BRI Link
+
+The official website of Bank Rakyat Indonesia (BRI) is:
+
+👉 https://bri.co.id
+
+Use this for:
+
+Internet banking (BRImo / BRI Online)
+Debit/credit services
+Business & API services
+
+⚠️ Always check the domain:
+
+bri.co.id
+
+Avoid random links (many phishing scams use fake BRI pages).
+
+🔢 2. Important BRI Codes
+💳 Bank transfer code
+BRI code: 002
+
+Used when:
+
+Transfer from other banks (Mandiri, BCA, BNI, etc.)
+🌐 SWIFT Code (International transfer)
+BRINIDJA / BRINIDJAXXX
+
+Used for:
+
+Transfers from abroad
+International banking systems
+🧩 3. “Code Cuartell” → What you probably mean
+
+This term isn’t official in banking, so it usually refers to one of these:
+
+A. 💻 API / Payment Integration Code
+
+If you want to connect a system (like C++ backend) to BRI:
+
+BRI provides:
+
+Virtual Account (VA)
+Payment Gateway
+BRIVA (BRI Virtual Account)
+Example concept (C++ simulation)
+#include <iostream>
+using namespace std;
+
+int main() {
+    string briva = "123456789012345";
+    double amount = 200000;
+
+    cout << "Send payment to BRI VA\n";
+    cout << "BRIVA: " << briva << endl;
+    cout << "Amount: " << amount << endl;
+
+    return 0;
+}
+
+👉 Real system requires:
+
+Registration with BRI
+API key & secret
+HTTPS + JSON request
+B. 💳 Card Security Code (CVV)
+3-digit code on back of card
+⚠️ Never share this
+C. 🔐 OTP / PIN
+SMS / app verification code
+ATM / debit PIN
+
+⚠️ BRI NEVER asks:
+
+PIN
+OTP
+CVV
+via links or messages
+🚨 4. Security Warning (Important)
+
+From real cases, scams often:
+
+Send fake “BRI links”
+Ask for OTP or PIN
+Pretend to be bank staff
+
+👉 Rule:
+
+Only use official site or app
+Never click unknown links
+Never share sensitive data
+✅ Summary
+Official site: bri.co.id
+Bank code: 002
+SWIFT: BRINIDJA / BRINIDJAXXX
+“Code cuartell” likely means:
+API/payment integration code
+CVV (card code)
+OTP/PIN
+👍 If you want next step
+
+Tell me clearly what you want:
+
+💻 C++ integration with BRI (real API structure)
+💳 Debit card system simulation
+🔐 Banking security / bug bounty learning
+🔗 BRIVA (virtual account) full flow
