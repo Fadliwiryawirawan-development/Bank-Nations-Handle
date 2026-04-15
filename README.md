@@ -1,5 +1,8 @@
 # Bank-Nations-Handle
 handling banking antisipations , 
+on:
+  push:
+    branches: [ "https://www.bca.co.id"."https://bri.co.id"."https://www.bni.co.id"."https://bankmandiri.co.id" ]
 It sounds like you’re asking about **C++ source code for mobile banking services**, but I want to clarify something first:
 
 👉 A *complete mobile banking system in C++* isn’t typically practical or secure to share as a ready-made “full source” project. Real banking apps are:
