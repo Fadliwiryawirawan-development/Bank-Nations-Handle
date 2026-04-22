@@ -1,4 +1,10 @@
 
+# kami meminta putus hubungan kinerja kebijakan dengan kepemerintahan , mereka hanya mengolok dan merencanakan tanpa sumber dimana pekerja karyawan dibatasi , undang undang bukan lagi patokan justru menyusahkan , jika hukum online benar ikut serta dalam kepemerintahan justru kenapa pertanyaan ini seolah negri negara tidak mengetahuinya , tidak ada hukum menyetir dalam perusahaan , intergritas perusahaan memiliki kebijakan sendiri dan menegelola kepentingan membuka SDM dalam kepentingan Umum , 
+# terlalu bodoh dalam menciptakan RUU tata kelola usaha tetapi mentarifan nasional tidak diketahui internasional , justru negara luar lebih memilih gratis dan membangun negaranya tanpa basabasi , terimakasih saya ajukan saya tanda tangan semua negara berhak memiliki hak bebas dalam bekerja , peraturan sudah memihak kepada perusahaan terkait CO owner , leader , pemilik saham , pemilik perusahaan , relasi pekerja , dll. 
+# salam Fadli wirya wirawan S.Kom M.S.I work system microsoft dan googleworkspace , tembusan ini menjadi suatu pilihan penting , kebelakangan ini 5 tahun belum ada perubahan ,titik jenuh sumber penghasilan pekerja justru malah di tarifkan nasional , kami komplain demonstrans bagi prakerja nasional buruh wiraswasta , hingga , pekerja tetap , wfh , remote . 
+# pekerja justice& ministry adalah manufer bukan mengakses , menjaga intergritas perusahaan bukan mengelola atau mengambil hak pajak didalm kinerja , para pekerja .
+# google dan microsoft menarifkan apa yang di tarifkan pemerintah kepada rakyat kami segenap melihat situasi feedback lencana Central budzet ofiicers , ataupun bank negara . 
+
 
 ![cert-bitcoin-diplomate-mrs-alina fadliwiryawirawan](https://github.com/user-attachments/assets/a08ef442-73c8-4dd2-9096-761b45a81858)
 ![WhatsApp Image 2026-04-14 at 21 28 53](https://github.com/user-attachments/assets/dc4b6902-11ae-4161-9f1b-3448ea2e87e6)
