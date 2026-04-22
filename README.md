@@ -5,11 +5,11 @@
 # pekerja justice& ministry adalah manufer bukan mengakses , menjaga intergritas perusahaan bukan mengelola atau mengambil hak pajak didalm kinerja , para pekerja .
 # google dan microsoft menarifkan apa yang di tarifkan pemerintah kepada rakyat kami segenap melihat situasi feedback lencana Central budzet ofiicers , ataupun bank negara . 
 
-
+# LANDASAN PANCASILA ADALAH IDENTITAS NEGARA HANYA MENGANTISIPASI BAHWA ADA KEAMANAN SIKAP MORALITAS PNETING SOSIAL PENUMBUH SUMPAH BUKAN MEMBUAT PERENCANAAN RANCANGAN KERJA ROMUSA MAUPUN KERJA RODI PANCASILA ADALAH SIMBOLIS KEMERDEKAAN !!!
 ![cert-bitcoin-diplomate-mrs-alina fadliwiryawirawan](https://github.com/user-attachments/assets/a08ef442-73c8-4dd2-9096-761b45a81858)
 ![WhatsApp Image 2026-04-14 at 21 28 53](https://github.com/user-attachments/assets/dc4b6902-11ae-4161-9f1b-3448ea2e87e6)
 
-
+# LANDASAN PANCASILA ADALAH IDENTITAS NEGARA HANYA MENGANTISIPASI BAHWA ADA KEAMANAN SIKAP MORALITAS PNETING SOSIAL PENUMBUH SUMPAH BUKAN MEMBUAT PERENCANAAN RANCANGAN KERJA ROMUSA MAUPUN KERJA RODI PANCASILA ADALAH SIMBOLIS KEMERDEKAAN !!!
 # Bank-Nations-Handle
 handling banking antisipations , 
 
